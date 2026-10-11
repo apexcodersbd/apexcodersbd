@@ -46,22 +46,6 @@
 
 ---
 
-## 📁 Featured Repositories
-
-| Repository | Description | Tech Stack |
-|---|---|---|
-| **[long-life](https://github.com/apexcodersbd/long-life)** | Enterprise digital healthcare super app & benefits platform for Bangladesh (Telemedicine, claims, bKash, Nagad) | .NET 10, Next.js 14, OpenAPI, Playwright |
-| **[wisetechenergy](https://github.com/apexcodersbd/wisetechenergy)** | Web platform for industrial gas engine spare parts, overhauls, control upgrades, and emission systems in Bangladesh | React 18, Vite, Tailwind CSS, Framer Motion |
-| **[dispatch](https://github.com/apexcodersbd/dispatch)** | Distributed criteria-based event dispatching & messaging hub | .NET, C#, Dapr, Azure Cosmos DB Change Feed |
-| **[easypay](https://github.com/apexcodersbd/easypay)** | Omnichannel payment engine supporting Card-Not-Present (e-commerce) & Terminal POS workflows | .NET, C#, Payment Abstractions |
-| **[pay-now-api](https://github.com/apexcodersbd/pay-now-api)** | Backend Web API for healthcare patient payment portal with dual gateways (OpenEdge & Stripay) | .NET 8, ASP.NET Core, Redis, SQL Server |
-| **[pay-now-spa](https://github.com/apexcodersbd/pay-now-spa)** | Patient payment portal SPA deployed on Azure Static Web Apps | React 18, TypeScript, Tailwind CSS, Stripe |
-| **[power-up](https://github.com/apexcodersbd/power-up)** | High-conversion athletic gym platform with goal-based training & exercise movement library | React, TypeScript, Vite, Tailwind CSS |
-| **[sweet-and-spice](https://github.com/apexcodersbd/sweet-and-spice)** | Food & bakery showcase with custom cake ordering & Messenger integration | React 18, Vite, Tailwind CSS, Lightbox |
-| **[jbl](https://github.com/apexcodersbd/jbl)** | Official web portal for JBL Mitra Fashion Garmindo (garment manufacturing in Bandung, Indonesia) | React 18, Vite, Tailwind CSS, Framer Motion |
-
----
-
 ## 📬 Contact & Collaboration
 
 We are open to enterprise consulting, software architecture, full-stack development, and long-term project collaborations.
